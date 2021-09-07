@@ -22,7 +22,7 @@ ali_drive:
   api_url: https://api.aliyundrive.com/v2
   max_files_count: 50 #重建目录时每次请求的文件
   drives:
-  - refresh_token: d901f0625a89455abd8439594f9335b9 
+  - refresh_token: xxxxxxx
     root_folder: root #根目录的file_id
     name: drive0 #盘名，多个盘不可重复
     password: pass #该盘密码，空则不设密码，修改需要重建生效
